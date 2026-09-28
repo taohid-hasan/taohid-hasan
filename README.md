@@ -16,7 +16,7 @@ I'm a frontend developer who loves turning coffee and curiosity into clean, resp
 
 ## 📍 Find Me
 - Location: Dhaka, Bangladesh
-- Email: your@email.com
+- Email: taohidhasannasim@email.com
 
 ## 🧰 My Toolbox
 <p align="center">
@@ -28,17 +28,8 @@ I'm a frontend developer who loves turning coffee and curiosity into clean, resp
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-](YOUR_LINKEDIN_URL)
-[
+] (https://github.com/taohid-hasan)
 
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-
-](YOUR_FACEBOOK_URL)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)
-
-](YOUR_PORTFOLIO_URL)
 
 ## 📊 My GitHub Journey
 <p align="center">
