@@ -22,7 +22,7 @@ I'm a developer who loves turning coffee and curiosity into clean, responsive we
 
 ## 🧰 My Toolbox
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,figma)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,figma)
 
 ## 🌐 Let's Connect
 
