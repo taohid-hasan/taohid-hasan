@@ -28,7 +28,7 @@ I'm a frontend developer who loves turning coffee and curiosity into clean, resp
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-] (https://github.com/taohid-hasan)
+] (www.linkedin.com/in/taohid-hasan-nasim-8871293a9)
 
 
 ## 📊 My GitHub Journey
